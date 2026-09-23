@@ -1,0 +1,12 @@
+{
+  "name": "proverka-tekstov-marketplace",
+  "interface": {"displayName": "Проверка текстов"},
+  "plugins": [
+    {
+      "name": "proverka-tekstov",
+      "source": {"source": "local", "path": "./"},
+      "policy": {"installation": "AVAILABLE", "authentication": "ON_INSTALL"},
+      "category": "Productivity"
+    }
+  ]
+}

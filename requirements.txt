@@ -1,0 +1,2 @@
+-r skills/proverka-tekstov/scripts/requirements.txt
+PyYAML>=6,<7
